@@ -1,0 +1,39 @@
+nav{
+    font-size: 30px;
+}
+a{
+    color: yellow;
+}
+
+#murderBody{
+    background: url(https://images.unsplash.com/photo-1583645870268-cea7a65814b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80);
+}
+#M{
+    text-align: center;
+    color: thistle;
+    font-size: 50px;
+}
+
+#M2{
+    color: yellow;
+    text-align: center;
+}
+
+#M3{
+    color:cornsilk
+}
+#v{
+    color:yellow;
+}
+
+#cripBody{
+    background:url(https://images.unsplash.com/photo-1487111023822-2e903e12f6f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+}
+#C1{
+    text-align: center;
+    color: white;
+    font-size:50px ;
+}
+#C2{
+    color:linen
+}

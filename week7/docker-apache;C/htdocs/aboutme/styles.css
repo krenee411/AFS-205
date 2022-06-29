@@ -1,0 +1,45 @@
+#homeHeader{
+    text-align: center;
+    color: white;
+}
+.homeP{
+    text-align: center;
+    color: white;
+}
+#homeBody{
+    background: url(https://images.unsplash.com/photo-1563724221514-1bceb0855985?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+}
+
+nav{
+    font-size: 30px;
+}
+a{
+    color: yellow
+}
+#introBody{
+    background: url(https://images.unsplash.com/photo-1563724221558-dbd98d65d294?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80);
+}
+#titleIntro{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(226, 157, 209) ;
+}
+
+#introD1{
+    text-align: center;
+    color:rgb(226, 157, 209);
+    font-size: large;
+    
+}
+#ul{
+    text-align: center;
+    color:rgb(226, 157, 209);
+    font-size: large;
+}
+li{
+    list-style: none;
+}
+
+#murderBody{
+    background: url(https://images.unsplash.com/photo-1583645870268-cea7a65814b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+}
